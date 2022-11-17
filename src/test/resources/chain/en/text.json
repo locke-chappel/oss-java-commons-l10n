@@ -1,0 +1,28 @@
+{
+	"locale" : "en_US",
+	"entries" : {
+		"a" : {
+			"value" : "a #b#"
+		},
+		"b" : {
+			"value" : "b",
+			"public": true
+		},
+		"c" : {
+			"value" : "c #a# #b# #d#"
+		},
+		"d" : {
+			"value" : "d #a#"
+		},
+		"e" : {
+			"value" : "#e#"
+		},
+		"f" : {
+			"value" : "#z#"
+		},
+		"g" : {
+			"value" : "g #c#",
+			"public": true
+		}
+	}
+}

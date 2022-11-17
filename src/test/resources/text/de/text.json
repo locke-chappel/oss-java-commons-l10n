@@ -1,0 +1,11 @@
+{
+	"locale" : "de_DE",
+	"entries" : {
+		"test" : {
+			"value" : "#one# #two# #test# %var%"
+		},
+		"default" : {
+			"value" : "German"
+		}
+	}
+}

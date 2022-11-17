@@ -1,0 +1,40 @@
+{
+	"locale" : "en_US",
+	"entries" : {
+		"prefix" : {
+			"value" : "AAA"
+		},
+		"prefix.value.subvalue" : {
+			"value" : "A",
+			"public": true
+		},
+		"prefix.value.subvalue2" : {
+			"value" : "B",
+			"public": false
+		},
+		"prefix.value.subvalue3" : {
+			"value" : "C"
+		},
+		"prefix.value" : {
+			"value" : "CC"
+		},
+		"prefix.v" : {
+			"value" : "AA"
+		},
+		"value" : {
+			"value" : "D"
+		},
+		"value.2" : {
+			"value" : "E",
+			"public" : true
+		},
+		"other" : {
+			"value" : "F",
+			"public" : true
+		},
+		"null" : {
+			"value" : null,
+			"public" : true
+		}
+	}
+}

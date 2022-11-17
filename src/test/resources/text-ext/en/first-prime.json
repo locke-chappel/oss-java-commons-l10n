@@ -1,0 +1,11 @@
+{
+	"locale" : "en_US",
+	"entries" : {
+		"one" : {
+			"value" : "alpha"
+		},
+		"extra" : {
+			"value" : "Extra! Extra!"
+		}
+	}
+}

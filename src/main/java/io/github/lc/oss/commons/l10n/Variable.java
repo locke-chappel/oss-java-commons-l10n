@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.l10n;
+package io.github.lc.oss.commons.l10n;
 
 import java.util.regex.Pattern;
 

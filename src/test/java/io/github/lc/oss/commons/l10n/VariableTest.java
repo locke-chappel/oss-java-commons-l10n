@@ -1,9 +1,9 @@
-package com.github.lc.oss.commons.l10n;
+package io.github.lc.oss.commons.l10n;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.github.lc.oss.commons.testing.AbstractMockTest;
+import io.github.lc.oss.commons.testing.AbstractMockTest;
 
 public class VariableTest extends AbstractMockTest {
     @Test

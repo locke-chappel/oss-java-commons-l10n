@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.l10n;
+package io.github.lc.oss.commons.l10n;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.lc.oss.commons.util.IoTools;
+import io.github.lc.oss.commons.util.IoTools;
 
 public class L10N {
     private boolean useCache = true;

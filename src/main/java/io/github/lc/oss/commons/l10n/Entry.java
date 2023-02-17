@@ -1,4 +1,4 @@
-package com.github.lc.oss.commons.l10n;
+package io.github.lc.oss.commons.l10n;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonInclude;

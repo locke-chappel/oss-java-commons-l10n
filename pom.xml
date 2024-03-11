@@ -12,7 +12,7 @@
     <version>1.0.10</version>
     <name>${project.artifactId}</name>
     <description>A JSON based localization framework support layered translations</description>
-    <url>https://github.com/locke-chappel/oss-commons-l10n</url>
+    <url>https://github.com/locke-chappel/oss-java-commons-l10n</url>
 
     <licenses>
         <license>
